@@ -1,9 +1,10 @@
 ## Hi There!
-My name is Samantha Orciuoli and I'm a senior studying commputer science at Rutgers University
+My name is Samantha Orciuoli and I'm a senior studying commputer science at Rutgers University. I've always had a fascination for computers and technology and continue to learn and aquire new skills in order to become a better programmer!
 
 ## I Am Currently Working On...
 
 ## Technologies I've been Using Reacently
+https://camo.githubusercontent.com/89c1f859b22b80caa4751dfa0b304cf5b0a0170a8f1d7025af816be08e5f917e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3030303030303f7374796c653d666c6174266c6f676f3d5265616374266c6f676f436f6c6f723d363144414642
 
 ## GitHub Stats:
 
