@@ -1,7 +1,11 @@
 ## Hi There!
+
 ## I Am Currently Working On...
+
 ##Technologies I've been Using Reacently
+
 ##GitHub Stats:
+
 ##Contact Me:
 
 <!--
