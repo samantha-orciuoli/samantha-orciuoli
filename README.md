@@ -1,4 +1,5 @@
 ## Hi There!
+My name is Samantha Orciuoli and I'm a senior studying commputer science at Rutgers University
 
 ## I Am Currently Working On...
 
