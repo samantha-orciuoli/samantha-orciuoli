@@ -1,6 +1,8 @@
-## Hi there!
---
-
+## Hi There!
+## I Am Currently Working On...
+##Technologies I've been Using Reacently
+##GitHub Stats:
+##Contact Me:
 <!--
 **samantha-orciuoli/samantha-orciuoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
