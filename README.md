@@ -2,11 +2,11 @@
 
 ## I Am Currently Working On...
 
-##Technologies I've been Using Reacently
+## Technologies I've been Using Reacently
 
-##GitHub Stats:
+## GitHub Stats:
 
-##Contact Me:
+## Contact Me:
 
 <!--
 **samantha-orciuoli/samantha-orciuoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
