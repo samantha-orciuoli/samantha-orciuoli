@@ -6,7 +6,8 @@ Hi, my name is Samantha Orciuoli and I'm a senior studying commputer science at 
 - Item Two
 
 ## Technologies I've been Using Reacently
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> 
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
 
 
