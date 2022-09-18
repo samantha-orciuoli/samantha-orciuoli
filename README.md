@@ -11,7 +11,7 @@ Hi, my name is Samantha Orciuoli and I'm a senior studying commputer science at 
 ## GitHub Stats:
 
 ## Contact Me:
-- Website - [softwaresammy.com] (https://softwaresammy.com)
+- Website - [GitHub Pages](https://pages.github.com/)
 - eMail - samantha.orciuoli@gmail.com
 - LinkedIn - Samantha-Orciuoli
 - Twitter - SamyChules
