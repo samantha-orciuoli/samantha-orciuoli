@@ -2,8 +2,9 @@
 Hi, my name is Samantha Orciuoli and I'm a senior studying commputer science at Rutgers University. I've always had a fascination for computers and technology and continue to learn and aquire new skills in order to become a better programmer!
 
 ## I Am Currently Working On:
-- Item One
-- Item Two
+- A blockchain NFT project using Next.js, Vercel, TailwindCSS and Moralis.
+- A company website using Next.js, Vercel, Formspree.io and Sanity.io.
+- A healthcare company PostgreSQL database.
 
 ## Technologies I've been Using Reacently
 <p>
