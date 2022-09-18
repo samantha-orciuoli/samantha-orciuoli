@@ -14,3 +14,4 @@ Hi, my name is Samantha Orciuoli and I'm a senior studying commputer science at 
 - Website - https://softwaresammy.com
 - eMail - samantha.orciuoli@gmail.com
 - LinkedIn - https://www.linkedin.com/in/samantha-orciuoli
+- Twitter - https://twitter.com/sammychules
