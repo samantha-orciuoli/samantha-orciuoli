@@ -9,7 +9,7 @@ Hi, my name is Samantha Orciuoli and I'm a senior studying commputer science at 
 
 
 ## GitHub Stats:
-![Samantha Orciuoli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samantha-orciuoli&show_icons=true&title_color=c9d1d9&text_color=c9d1d9&bg_color=0d1117&border_color=0d1117)
+![Samantha Orciuoli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samantha-orciuoli&show_icons=true&icon_color=c9d1d9&title_color=c9d1d9&text_color=c9d1d9&bg_color=0d1117&border_color=0d1117)
 ## Contact Me:
 - Website - [softwaresammy.com](https://softwaresammy.com/)
 - eMail - samantha.orciuoli@gmail.com
