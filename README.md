@@ -1,12 +1,6 @@
 ## Hi There!
 Hi, my name is Samantha Orciuoli and I'm currently pursing a Masters degree in computer science from The University of Texas at Austin. I've always had a fascination for computers and technology and continue to learn and aquire new skills in order to become a better programmer!
 
-## I Am Currently Working On:
-- My personal website using Next.js, Vercel, TailwindCSS, Formspree.io and Sanity.io
-- A blockchain NFT project using Next.js, Vercel, TailwindCSS and Moralis.
-- A company website using Next.js, Vercel, Formspree.io and Sanity.io.
-- A healthcare company PostgreSQL database.
-
 ## Technologies I've been Using Reacently
 <p>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
