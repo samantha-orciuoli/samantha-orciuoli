@@ -23,9 +23,6 @@ Hi, my name is Samantha Orciuoli and I'm currently pursing a Masters degree in c
   <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" />
 </p>
 
-## GitHub Stats:
-![Samantha Orciuoli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samantha-orciuoli&show_icons=true&icon_color=c9d1d9&title_color=c9d1d9&text_color=c9d1d9&bg_color=0d1117&border_color=0d1117)
-
 ## Contact Me:
 - eMail - samantha.orciuoli@gmail.com
 - LinkedIn - [Samantha-Orciuoli](https://twitter.com/sammychules)
