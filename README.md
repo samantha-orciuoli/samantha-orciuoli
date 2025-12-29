@@ -1,5 +1,5 @@
 ## Hi There!
-Hi, my name is Samantha Orciuoli and I'm currently pursing a Masters degree in computer science from The University of Texas at Austin. I've always had a fascination for computers and technology and continue to learn and aquire new skills in order to become a better programmer!
+Hi, my name is Samantha Orciuoli and I'm currently pursing a Masters degree in Artificial Intelligence from The University of Texas at Austin. I've always had a fascination for computers and technology and continue to learn and aquire new skills in order to become a better programmer!
 
 ## Technologies I've been Using Reacently
 <p>
